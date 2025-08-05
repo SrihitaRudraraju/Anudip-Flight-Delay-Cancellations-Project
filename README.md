@@ -10,6 +10,8 @@ This Power BI project analyzes historical airline flight data to identify patter
 
 Click below to download the full Power BI dashboard file:
 
+To view the .pbix file, click on the download option, after opening the Google Drive link.
+
 **[Flight Delays & Cancellations_Dashboard.pbix](https://drive.google.com/file/d/1kLxHuNMUEiH2ymShllBFXOFWQR6hVljc/view?usp=sharing)**
 
 
